@@ -9,7 +9,7 @@ Este repositório contém minha resolução para o desafio de programação prop
 ## Problemas escolhidos
  
 | # | Nome do problema | Link | Dificuldade |
-|---|-----------------|------|-------------|
+|---|-----------------  |------|-------------|
 | 1 | Cadeado de notas | [Ver no Codeforces](https://codeforces.com/problemset/problem/2154/A)) | 800 |
  
 ---
